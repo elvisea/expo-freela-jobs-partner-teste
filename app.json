@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "expo-freela-jobs-partner",
+    "slug": "expo-freela-jobs-partner",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "expo-freela-jobs-partner"
+}
